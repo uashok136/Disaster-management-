@@ -127,14 +127,9 @@ My contibution towards serving nation couldn't create much impact,but the happin
 
 ### **Photos**
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
-
 <div align="center">
 <img src="https://github.com/uashok136/Disaster-management-/blob/main/communtiy%20services/food%20service.jpeg" alt="Food Service" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/uashok136/Disaster-management-/blob/main/communtiy%20services/tree%20plantation.jpeg" alt="Tree Plantation" width="30%">
 </div>
 
 ---
