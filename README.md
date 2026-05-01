@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> U Ashok Kumar </p>
+    <p><strong>Email ID:</strong> uashok136@gmail.com </p>
+    <p><strong>College Name:</strong> Sanskrithi School of Engineering </p>
+    <p><strong>Branch/Specialization :</strong> Computer Science and Engineering </p>
+    <p><strong>College ID:</strong> 23KF1A05C5 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Full Stack Development (G30 FSD) </p>
+    <p><strong>Instructor Name:</strong> Akshara Mam </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Akshara Mam</p>
+<p><strong>Trainer Email ID:</strong> akshararajan26@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Software Developer at Propel Technology </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,53 +63,23 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my 4-month full stack development internship with SureProEd, guided by Akshara (Software Developer at Propel Technologies), I gained strong practical knowledge in both front-end and back-end web development. I learned to build and manage projects using HTML, CSS, JavaScript, React, and Angular, while also improving my understanding of Git and GitHub for version control and collaboration. The internship helped me strengthen my problem-solving abilities, understand real-world development workflows, and become confident in developing responsive, user-friendly web applications.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> Disaster Management</p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Disaster Management </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+Disaster Preparedness and Response Education System for Schools and Colleges.I have used the knowledge provided to me through this internship period for successful completion of the project.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/uashok136/Disaster-management-/blob/main/U%20Ashok%20Kumar%20-%20G30%20FSD%20Project%20Report%20.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -117,39 +87,40 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [Angular](https://angular.io/docs)
+- [Django](https://docs.djangoproject.com)
+- [PostgreSQL](https://www.postgresql.org/docs)
+- [Python](https://docs.python.org)
+- [REST API](https://www.django-rest-framework.org)
+- 
 ---
-
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+I have gone through evry LST's till now.You are providing Life Skill Development skills and Training for free.And they are very useful in our own growth and well-being.I am pleased to share that this LST sessions have educated me a lot and am feeling strong and confident to tackle everything that comes in the life.
+
 ---
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+I am very happy that serving to the society in your strength and am willing to do so, but one thing that I hesitated the most is to take pictures in the act.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities .
+
+This experience gave me strong willingness for be crucial for serving the society with my own strength.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
+ 
+ Near banglore premises.
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+ At greater banglore area.
+- **Helping Elder Citizens** – Assisted four elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+My contibution towards serving nation couldn't create much impact,but the happiness in those faces is what makes me feel proud on myself.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -183,7 +154,9 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+My sincere thanks to Akshara mam and Radhakumari mam for considering me to complete this internship with true dedication and determination.
+
+- [Ms. Akshara](https://www.linkedin.com/in/akshara-a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoJyxDBacQi%2BE26nVgXH%2FUA%3D%3D) , Software Developer at Propel Technoly
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
